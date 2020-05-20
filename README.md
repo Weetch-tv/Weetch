@@ -5,14 +5,6 @@
 
 ## Historias de usuario
 
-![](imagenes/HistoriaUsuario1.jpg)
-
-
-
-![](imagenes/HistoriaUsuario2.jpg)
-
-
-
 
 Italicized text is the *cat's meow*.
 
